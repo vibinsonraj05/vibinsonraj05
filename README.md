@@ -14,6 +14,5 @@
 <a href="https://github.com/vibinsonraj05"><img src="./assets/c-github.svg" width="50%" alt="GitHub" /></a><a href="https://www.linkedin.com/in/vibinson-raj-g/"><img src="./assets/c-linkedin.svg" width="50%" alt="LinkedIn" /></a><br>
 <img src="./assets/footer.svg" width="100%" alt="Turning curiosity into code." /><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D2B,55:04140E,100:000000&height=120&section=footer" width="100%" alt="Footer" /><br>
-<img src="https://komarev.com/ghpvc/?username=vibinsonraj05&label=PROFILE+VIEWS&color=00FF88&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
 
 </div>
